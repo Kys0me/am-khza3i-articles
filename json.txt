@@ -1,1 +1,1 @@
-{"data":"\{\[\"Hello\"\,\"Hello2\"\]\}"}
+{"data":"{[\"Hello\",\"Hello2\"]}"}
